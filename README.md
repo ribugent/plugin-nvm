@@ -1,3 +1,7 @@
+> ⚠️I'm not using nvm anymore, if you look for a solution that works better, I'd suggest use [nodenv](https://github.com/nodenv/nodenv) and [nodenv-nvm](https://github.com/ouchxp/nodenv-nvmrc) plugin in case your projects needs to use `.nvmrc` files.
+
+> See also ["Why nodenv?"](https://github.com/nodenv/nodenv/wiki/Why-nodenv%3F)
+
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
 #### plugin-nvm
